@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RgbConverter</string>
+    <string name="rgb_color_red_value">rgb color red value</string>
+    <string name="rgb_color_blue_value">rgb color blue value</string>
+    <string name="rgb_color_green_value">rgb color green value</string>
+    <string name="btn_show_color">show color of rgb value</string>
+</resources>
